@@ -23,10 +23,10 @@ An English-like programming language designed for human readability, compiling t
 *   **Concept:** A simple language that bridges the gap between human thought and machine execution.
 *   **Tech:** C#, Compiler Design, Assembly
 
-### Trust - Survival Experience (from portfolio)
+### Trust - Survival Experience  
 A unique survival game focusing on trust mechanics and player interactions in a post-apocalyptic world. Developed in Unity.
 
-### Cosmos Operating System (from portfolio)
+### Cosmos Operating System  
 An experimental operating system developed using the Cosmos framework, exploring new OS concepts and architectures.
 
 ## 📊 GitHub Activity
