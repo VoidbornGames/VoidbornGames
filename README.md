@@ -34,8 +34,9 @@ An experimental operating system developed using the Cosmos framework, exploring
 
 ## 📫 Let's Connect
 I'm always excited about new projects and collaborations. Feel free to reach out!
-*   **Portfolio & Contact:** [voidgames.ir/me.php](https://voidgames.ir/me.php)
+*   **Portfolio & Contact:** [@Profilo](https://voidgames.ir/me.php)
 *   **GitHub:** [@VoidbornGames](https://github.com/VoidbornGames)
+*   **LinkedIn:** [@Alireza Janaki](https://linkedin.com/in/alireza-janaki-287a48386)
 
 ---
 
