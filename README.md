@@ -33,7 +33,7 @@ An experimental operating system developed using the Cosmos framework, exploring
 <p align="left">
 <a href="https://linkedin.com/in/alireza-janaki-287a48386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-janaki-287a48386" height="30" width="40" /></a>
 <a href="https://instagram.com/alireza.game.maker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alireza.game.maker" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/voidborngames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="voidborngames" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@voidborngames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="voidborngames" height="30" width="40" /></a>
 <a href="https://discord.gg/YfM45M4EnS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YfM45M4EnS" height="30" width="40" /></a>
 </p>
 
@@ -44,9 +44,6 @@ An experimental operating system developed using the Cosmos framework, exploring
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voidborngames&show_icons=true&locale=en" alt="voidborngames" /></p>
 
-
-## 📊 GitHub Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VoidbornGames&theme=react-dark&hide_border=true)
 ---
 
 *"Always curious, always building."*
