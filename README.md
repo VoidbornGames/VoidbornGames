@@ -38,7 +38,7 @@ public:
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🎮 **Game Architect**
 I create **immersive experiences**. Game mechanics, physics engines, AI systems—built from first principles.
@@ -52,7 +52,7 @@ I create **immersive experiences**. Game mechanics, physics engines, AI systems�
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🏗️ **Infrastructure Specialist**
 I design systems that **never go down**. High-availability architectures that scale from 10 to 10 million users.
