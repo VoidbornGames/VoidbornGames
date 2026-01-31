@@ -40,18 +40,6 @@ public:
 <tr>
 <td width="50%">
 
-### ⚡ **Performance Engineer**
-I obsess over **nanoseconds**. From cache-friendly data structures to SIMD optimizations, I make code **fast by default**.
-
-**Core Skills:**
-- Low-level C/C++ optimization
-- Memory management & profiling
-- Multi-threading & concurrency
-- Algorithm optimization
-
-</td>
-<td width="50%">
-
 ### 🎮 **Game Architect**
 I create **immersive experiences**. Game mechanics, physics engines, AI systems—built from first principles.
 
@@ -74,18 +62,6 @@ I design systems that **never go down**. High-availability architectures that sc
 - Load balancing & caching
 - Database optimization
 - Real-time multiplayer backends
-
-</td>
-<td width="50%">
-
-### 🔥 **Full-Stack Capability**
-Frontend to backend, database to deployment. I see the **entire picture** and build end-to-end.
-
-**Core Skills:**
-- Modern web technologies
-- RESTful & WebSocket APIs
-- Database design & optimization
-- Cloud infrastructure (Cloudflare)
 
 </td>
 </tr>
