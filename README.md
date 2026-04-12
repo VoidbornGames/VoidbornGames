@@ -164,6 +164,6 @@ team_dynamics:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://raw.githubusercontent.com/VoidbornGames/VoidbornGames/output/snake.svg" alt="Snake animation" />
 
 </div>
