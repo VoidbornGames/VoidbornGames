@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ALIREZA JANAKI ⚡
+# ALIREZA JANAKI
 ### ARCHITECT OF DIGITAL REALITIES
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Apps%20•%20Servers%20•%20Games&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 THE MISSION
+## THE MISSION
 
 I don't just write code—**I architect experiences that scale, perform, and captivate**. From bare-metal systems optimization to server infrastructure that handles millions, to game worlds that feel alive. I build at the intersection where **engineering meets artistry**.
 
@@ -35,7 +35,7 @@ public:
 
 ---
 
-## 💎 WHAT SETS ME APART
+## WHAT SETS ME APART
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ I create **immersive experiences**. Game mechanics, physics engines, AI systems�
 <tr>
 <td width="100%">
 
-### 🏗️ **Infrastructure Specialist**
+### **Infrastructure Specialist**
 I design systems that **never go down**. High-availability architectures that scale from 10 to 10 million users.
 
 **Core Skills:**
@@ -70,7 +70,7 @@ I design systems that **never go down**. High-availability architectures that sc
 
 ---
 
-## 🛠️ TECHNOLOGY ARSENAL
+## TECHNOLOGY ARSENAL
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I design systems that **never go down**. High-availability architectures that sc
 
 ---
 
-## 📊 PROOF OF WORK
+## PROOF OF WORK
 
 <div align="center">
 
@@ -110,7 +110,7 @@ I design systems that **never go down**. High-availability architectures that sc
 
 ---
 
-## 🎖️ THE VALUE I BRING
+## THE VALUE I BRING
 
 ```yaml
 technical_excellence:
@@ -131,25 +131,25 @@ team_dynamics:
 
 ---
 
-## 💼 LET'S TALK BUSINESS
+## LET'S TALK BUSINESS
 
 <div align="center">
 
 ### **I'm looking for:**
-🚀 **Challenging technical problems** that push boundaries  
-🎯 **High-impact projects** where code quality matters  
-🏢 **Teams that value** craftsmanship and excellence  
-💡 **Opportunities to learn** and grow with brilliant engineers  
+**Challenging technical problems** that push boundaries  
+**High-impact projects** where code quality matters  
+**Teams that value** craftsmanship and excellence  
+**Opportunities to learn** and grow with brilliant engineers  
 
 ### **What you get:**
-✅ A developer who thinks like an **engineer AND a founder**  
-✅ Someone who ships **fast** without compromising quality  
-✅ A problem solver who finds **elegant solutions** to complex challenges  
-✅ A team player who **elevates everyone** around them  
+A developer who thinks like an **engineer AND a founder**  
+Someone who ships **fast** without compromising quality  
+A problem solver who finds **elegant solutions** to complex challenges  
+A team player who **elevates everyone** around them  
 
 <br/>
 
-## 📡 **CONNECT WITH ME**
+## **CONNECT WITH ME**
 
 <a href="https://instagram.com/alireza.game.maker"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/alireza-janaki-287a48386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -158,7 +158,7 @@ team_dynamics:
 
 <br/><br/>
 
-### 📩 **Ready to build something extraordinary?**
+### **Ready to build something extraordinary?**
 ### **[Let's talk →](mailto:voidborn.games.official@gmail.com)**
 
 <br/>
