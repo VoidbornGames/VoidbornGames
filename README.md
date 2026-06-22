@@ -82,14 +82,6 @@ Solution solve(Problem& p) {
 
 ---
 
-## GitHub Activity
-
-<p align="center" width="100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=VoidbornGames&theme=algolia&no-frame=true&column=-1&title=Commits,Stars,Experience" />
-</p>
-
----
-
 ## What I am Looking For
 
 I am open to roles where I can work on **technically demanding problems** — whether that is a game studio, an infrastructure team, or a product that needs someone who thinks deeply about performance and reliability.
