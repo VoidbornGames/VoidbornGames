@@ -1,31 +1,27 @@
-<div align="center">
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header" />
-
-### Alireza Janaki
-Systems, games, and infrastructure
+# Alireza Janaki  
+**Systems, Games, and Infrastructure Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-janaki-287a48386)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:voidborn.games.official@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@voidborngames)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alireza.game.maker)
 
-</div>
-
 ---
 
-## About me
+## Professional Summary
 
-I build stuff — mostly games, servers, and the occasional app. I like knowing how things work under the hood, not just that they work. If something's slow or breaks under load, I want to know why before I fix it.
+I am a software engineer with a strong focus on game development, server infrastructure, and application architecture. My work spans from low‑level performance optimisation to designing scalable distributed systems. I prioritise understanding the internal mechanics of the systems I build, not merely achieving functional correctness, but ensuring robustness, efficiency, and maintainability under real‑world loads.
 
-## What I work with
+## Core Competencies
 
-- **Games:** engines, physics, rendering, multiplayer
-- **Servers:** load balancing, distributed systems, real-time backends
-- **Low-level stuff:** performance tuning, memory, tooling
-- **Apps:** desktop and web, kept clean and easy to maintain
+- **Game Engineering:** engine architecture, physics simulation, rendering pipelines, multiplayer networking
+- **Infrastructure & Backend:** load balancing, distributed systems, real‑time data processing, cloud deployment
+- **Systems Programming:** performance tuning, memory management, tooling and automation
+- **Application Development:** cross‑platform desktop and web applications, clean code practices, maintainable design
 
-## Tools I actually use
+## Technical Proficiencies
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -40,23 +36,19 @@ I build stuff — mostly games, servers, and the occasional app. I like knowing 
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-## Looking for
+## Professional Interests
 
-Full-time, contract, or open-source work — ideally something with real technical problems to chew on. I'd rather dig into one hard thing than juggle ten easy ones.
+I am currently seeking full‑time, contract, or open‑source opportunities that involve challenging technical problems, particularly those requiring deep investigation and sustained focus. I value depth over breadth and prefer to tackle a single, complex issue thoroughly rather than juggle many trivial tasks.
 
 ---
 
-<div align="center">
+## Contact
 
-Reach out if you've got something interesting to build.
+If you have an interesting project or role that aligns with my expertise, I would welcome the opportunity to discuss it further.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:voidborn.games.official@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-janaki-287a48386)
 
-<br/>
+![Contribution Graph](https://raw.githubusercontent.com/VoidbornGames/VoidbornGames/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/VoidbornGames/VoidbornGames/output/snake.svg" alt="Contribution graph" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" />
-
-</div>
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer)
