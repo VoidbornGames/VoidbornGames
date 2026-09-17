@@ -1,7 +1,7 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header)
 
 # Alireza Janaki  
-**Systems, Games, and Infrastructure Engineer**
+**Systems and Infrastructure Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-janaki-287a48386)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:voidborn.games.official@gmail.com)
@@ -10,13 +10,10 @@
 
 ---
 
-## Professional Summary
-
-I am a software engineer with a strong focus on game development, server infrastructure, and application architecture. My work spans from low‑level performance optimisation to designing scalable distributed systems. I prioritise understanding the internal mechanics of the systems I build, not merely achieving functional correctness, but ensuring robustness, efficiency, and maintainability under real‑world loads.
+I am a software engineer with a strong focus on server infrastructure, and application architecture. My work spans from low‑level performance optimisation to designing scalable distributed systems. I prioritise scaling the internal mechanics of the systems I build, not merely achieving functional correctness, but ensuring robustness, efficiency, and maintainability under real‑world loads.
 
 ## Core Competencies
 
-- **Game Engineering:** engine architecture, physics simulation, rendering pipelines, multiplayer networking
 - **Infrastructure & Backend:** load balancing, distributed systems, real‑time data processing, cloud deployment
 - **Systems Programming:** performance tuning, memory management, tooling and automation
 - **Application Development:** cross‑platform desktop and web applications, clean code practices, maintainable design
