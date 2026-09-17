@@ -10,7 +10,7 @@
 
 ---
 
-I am a software engineer with a strong focus on server infrastructure, and application architecture. My work spans from low‑level performance optimisation to designing scalable distributed systems. I prioritise scaling the internal mechanics of the systems I build, not merely achieving functional correctness, but ensuring robustness, efficiency, and maintainability under real‑world loads.
+I am a software engineer with a strong focus on server infrastructure and application architecture. My work spans from low‑level performance optimisation to designing scalable distributed systems. I prioritise scaling the internal mechanics of the systems I build, not merely achieving functional correctness, but ensuring robustness, efficiency, and maintainability under real‑world loads.
 
 ## Core Competencies
 
