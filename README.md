@@ -10,11 +10,11 @@
 
 ---
 
-I am a software engineer with a strong focus on server infrastructure and application architecture. My work spans from low‑level performance optimisation to designing scalable distributed systems. I prioritise scaling the internal mechanics of the systems I build, not merely achieving functional correctness, but ensuring robustness, efficiency, and maintainability under real‑world loads.
+I am a software engineer with a strong focus on server infrastructure and application architecture. My work spans from low level performance optimisation to designing scalable distributed systems. I prioritise scaling the internal mechanics of the systems I build, not merely achieving functional correctness, but ensuring efficiency and maintainability under real world loads.
 
 ## Core Competencies
 
-- **Infrastructure & Backend:** load balancing, distributed systems, real‑time data processing, cloud deployment
+- **Infrastructure & Backend:** load balancing, distributed systems, real time data processing, cloud deployment
 - **Systems Programming:** performance tuning, memory management, tooling and automation
 - **Application Development:** cross‑platform desktop and web applications, clean code practices, maintainable design
 
@@ -34,7 +34,7 @@ I am a software engineer with a strong focus on server infrastructure and applic
 
 ## Professional Interests
 
-I am currently seeking full‑time, contract, or open‑source opportunities that involve challenging technical problems, particularly those requiring deep investigation and sustained focus. I value depth over breadth and prefer to tackle a single, complex issue thoroughly rather than juggle many trivial tasks.
+I am currently seeking full time, contract, or open source opportunities that involve challenging technical problems, particularly those requiring deep investigation and sustained focus. I value depth over breadth and prefer to tackle a single, complex issue thoroughly rather than juggle many trivial tasks.
 
 ---
 
